@@ -1,0 +1,45 @@
+body{
+    background-color: gray
+}
+h1{
+    color:blue;
+    padding-left: 400px;
+}
+p{
+   border: 25px solid; 
+   border-color: red;
+   text-align: center;
+   
+   
+}
+ol{
+    color:white;
+    background-color: green;
+}
+ul{
+    
+    
+    text-align: right;
+    display: inline-block 
+}
+li{
+    display:inline-block
+}
+.button{ 
+    color:gray;
+    background-color: blue;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid darkcyan
+}
+
+.call-to-action{
+    font-style:italic;
+    background-color: yellow
+}
+#button-1{
+    color:aquamarine
+}
+
+
